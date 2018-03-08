@@ -17,6 +17,7 @@ C. Comment on any additional information that would be desired in setting credit
 My Approach:
 
 Dataset contains all approved customers with mostly Good to Excellent credit rating (>=0.7), but still 17% people defaulted and we saw net Loss of $8,370
+
 Mean Loss/customer (-$14.5) is 5-6x of mean Profit/customer ($2.8)
 
 I fit a Logistic Regression model on available data, which predicted whether a new user will default or not
