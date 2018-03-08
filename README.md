@@ -1,4 +1,4 @@
-# loan-default-prediction
+# Loan Default Prediction
 Predict customers who are likely to default on their very first loan
 
 Problem Statement:
