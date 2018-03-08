@@ -14,6 +14,7 @@ B. Recommend a credit policy that dictates (sets business rules for) who we shou
 
 C. Comment on any additional information that would be desired in setting credit policy
 
+
 My Approach:
 
 Dataset contains all approved customers with mostly Good to Excellent credit rating (>=0.7), but still 17% people defaulted and we saw net Loss of $8,370
